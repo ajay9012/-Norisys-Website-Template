@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.navbar{
+padding-top: 20px;
+padding-left:20px;
+
+}
+.navbar .Search{
+    margin-top: 10px;
+}
+.icon i{
+    background: transparent;
+    color: grey;
+    font-size: 20px;
+   
+}
+.navbar a{
+    color: grey;
+    margin-top: 10px;
+    
+}
+.navbar  .logo{
+   padding: 10px;
+   color: black;
+   position:absolute;
+   right: 0;
+   top: 10px;
+   margin-right: 100px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+   text-decoration: none; 
+   
+}
+.navbar .logo span{
+    color: rgb(39, 82, 152);
+}
+.c_img{
+    
+    margin-top: 255px;
+}
+
+footer
+{
+    background-image: url(https://img.freepik.com/free-photo/black-painted-wall-textured-background_53876-110728.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    
+}
+.list_item{
+    list-style: none;
+    font-size: 12px;
+}
